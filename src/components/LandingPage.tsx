@@ -57,7 +57,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onEnter }) => {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.98 }}
         >
-          <span className="button-text">A message from your son, Theo</span>
+          <span className="button-text">A message from your Darling, Theo</span>
           <span className="button-heart">💙</span>
         </motion.button>
         

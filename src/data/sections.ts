@@ -8,76 +8,75 @@ export interface Section {
 export const sections: Section[] = [
   {
     id: 1,
-    image: "/images/DJI_20260517153414_0676_D.JPG",
+    image: "/images/IMG_0760.JPG",
     alt: "The ID that started it all",
-    text: `Happy Father's Day, Daddy!`
+    text: `Happy Birthday, my love!`
   },
   {
     id: 2,
     image: "/images/DJI_20260517154956_0678_D.JPG",
     alt: "A cherished memory",
-    text: `I've taken my time before writing this, because I wanted every word to come from clarity and gratitude—not just something quick or expected. This year meant a lot to me, and before another Father's Day passes, I wanted to take a moment to really say what's been on my mind.`
+    text: `It's only been a month since we started this, but it already feels like something special. We just click-our conversations, our plans, the way we understand each other so easily. That kind of chemistry and compatibility, especially this early, isn't something I take for granted. I'm grateful for every bit of it.`
   },
   {
     id: 3,
     image: "/images/DJI_20260520182929_0707_D.JPG",
     alt: "Getting to know you",
-    text: `This year moved fast. There was growth, pressure, learning, and change—and through all of it, you were there. Sometimes quietly in the background, sometimes right beside me, but always present in ways I notice more and more as I get older.`
+    text: `Thank you for being my emotional support, for being someone I can lean on even this soon. It means more to me than you probably realize. Having someone who genuinely listens and understands makes such a difference, and I'm glad that someone is you.`
   },
   {
     id: 4,
     image: "/images/DJI_20260520182931_0708_D.JPG",
     alt: "Your beautiful dreams",
-    text: `One memory that's stayed with me is from our trip to Palawan—riding side by side through that underwater cave. It wasn't a big, dramatic moment, but it felt special. Quiet. Just the two of us, gliding through the dark together. I remember thinking how lucky I am to have a dad I can share moments like that with—not just as a father, but as someone whose company I genuinely enjoy.`
+    text: `Your smile makes me happy in ways I can't quite explain. Your eyes make me fall for you a little more every time I look into them. And that chuckle of yours? It makes my heart flutter every single time I hear it. These little things about you mean so much to me.`
   },
   {
     id: 5,
     image: "/images/DJI_20260520183005_0713_D.JPG",
     alt: "The personal moments",
-    text: `I admire the way you live, Dad—with discipline, patience, and quiet strength. You don't make a big deal out of the sacrifices you make, but I see them. I notice the way you show up, day after day, without needing recognition for it. That kind of steadiness has shaped me more than you probably realize.`
+    text: `I love you, and I thank God for placing you in my life-even if it's only been for a short while so far. I don't know what the future holds for us, but I'm grateful for what we have right now. No matter what happens, I always wish you happiness, joy, and good health.`
   },
   {
     id: 6,
     image: "/images/IMG_0720.JPG",
     alt: "Thank you for listening",
-    text: `I also want to thank you for the personal moments—the meals we've shared, the trips, the small everyday conversations that don't need to be loud to matter. The times you've listened to me, supported my decisions, and accepted me for who I am, even when I didn't always make things easy. That kind of patience and understanding isn't something I take lightly.`
+    text: `Today, I just want you to feel celebrated. Not for what you do or what you achieve, but simply for who you are. You deserve to feel loved, appreciated, and reminded of how much brightness you bring into the lives around you-including mine.`
   },
   {
     id: 7,
     image: "/images/IMG_0725.JPG",
     alt: "Your influence on me",
-    text: `You've influenced me in ways that go beyond words—how I think about responsibility, about working hard, about treating people right, and about building a life with purpose. Not because you sat me down and lectured me, but because watching you live your life made me want to become better for myself.`
+    text: `I hope this new year of your life brings you closer to the things you've been working toward. I hope it brings clarity where you've felt unsure, and confidence where you've doubted yourself. You're growing into someone even stronger than you already are, and I'm excited to see that unfold.`
   },
   {
     id: 8,
     image: "/images/IMG_0744.JPG",
     alt: "Taking responsibility",
-    text: `I also want to take a moment to say I'm sorry for any times I've fallen short—moments I might have caused stress, said the wrong thing, or didn't show enough appreciation. Thank you for your patience through all of that, and for never holding it against me.`
+    text: `I hope you keep growing in ways you don't even realize yet. Step out of your comfort zone, improve, excel-I see so much potential in you, even more than you see in yourself. You're capable of so much more than you give yourself credit for.`
   },
   {
     id: 9,
     image: "/images/IMG_0747.JPG",
     alt: "Honesty and clarity",
-    text: `As I move forward—still growing, still learning, still becoming the man I want to be—I carry a lot of what you've taught me, whether through words or simply through example. I don't have everything figured out yet, but I know the foundation you've given me matters more than I can fully express right now.`
+    text: `I hope you keep that soft, understanding heart of yours, the one that makes you who you are. But always remember to lead with your mind when it counts, especially when making important decisions.`
   },
   {
     id: 10,
     image: "/images/IMG_0750.JPG",
     alt: "Respect and freedom",
-    text: `So thank you, Dad—for the timing, the lessons, the patience, and every quiet sacrifice along the way. Whatever comes next, I'm grateful for everything we've shared, and I'm proud to be your son.`
+    text: `On your birthday, I hope you take a moment to be proud of yourself-for how far you've come, for the person you've become, and for everything you're still becoming. You don't always give yourself enough credit, but I see it, even if you don't.`
   },
   {
     id: 11,
     image: "/images/IMG_0758.JPG",
     alt: "My real feelings",
-    text: `Happy Father's Day, Daddy. I love you.`
+    text: `Whatever this next chapter brings you, I hope it's filled with good people, good moments, and good energy surrounding you. You deserve all of it and more.`
   },
   {
     id: 12,
-    image: "/images/IMG_0760.JPG",
+    image: "/images/DJI_20260517153414_0676_D.JPG",
     alt: "My favorite photo of you",
-    text: `Your son,
-
-Theo`
+    text: `I love you so much. Happy birthday, baby 
+    I hope to see you soon.`
   }
 ];

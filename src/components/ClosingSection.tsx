@@ -35,7 +35,7 @@ const ClosingSection: React.FC = () => {
           viewport={{ once: true }}
           transition={{ duration: 0.8, delay: 1 }}
         >
-          Happy Father's Day
+          Happy Birthday My Love!
         </motion.h2>
         
         <motion.p
@@ -45,7 +45,7 @@ const ClosingSection: React.FC = () => {
           viewport={{ once: true }}
           transition={{ duration: 0.8, delay: 1.3 }}
         >
-          June 2026
+          July 12, 2026
         </motion.p>
         
         <motion.div
@@ -63,7 +63,7 @@ const ClosingSection: React.FC = () => {
           viewport={{ once: true }}
           transition={{ duration: 0.8, delay: 1.6 }}
         >
-          With love and gratitude,
+          With love and sincerity, <br />
           <br />
           <span className="signature-name">Theo</span>
         </motion.p>
