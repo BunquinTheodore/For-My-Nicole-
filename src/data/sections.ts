@@ -26,7 +26,7 @@ export const sections: Section[] = [
   },
   {
     id: 4,
-    image: "/images/455108606_3645855345726841_657022412422114254_n.jpg",
+    image: "/images/598410505_4373350496281710_2657601019880249402_n.jpg",
     alt: "Your beautiful dreams",
     text: `One memory that's stayed with me is from our trip to Palawan—riding side by side through that underwater cave. It wasn't a big, dramatic moment, but it felt special. Quiet. Just the two of us, gliding through the dark together. I remember thinking how lucky I am to have a dad I can share moments like that with—not just as a father, but as someone whose company I genuinely enjoy.`
   },
@@ -74,7 +74,7 @@ export const sections: Section[] = [
   },
   {
     id: 12,
-    image: "/images/598410505_4373350496281710_2657601019880249402_n.jpg",
+    image: "/images/455108606_3645855345726841_657022412422114254_n.jpg",
     alt: "My favorite photo of you",
     text: `Your son,
 
