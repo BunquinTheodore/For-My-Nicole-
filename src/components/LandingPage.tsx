@@ -38,7 +38,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onEnter }) => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.6, duration: 0.8 }}
         >
-          A message written with honesty and care
+          A message written with love and care
         </motion.p>
         
         <motion.div
@@ -57,7 +57,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onEnter }) => {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.98 }}
         >
-          <span className="button-text">A message from your Theo</span>
+          <span className="button-text">A message from your son, Theo</span>
           <span className="button-heart">💙</span>
         </motion.button>
         
