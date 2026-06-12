@@ -35,7 +35,7 @@ const ClosingSection: React.FC = () => {
           viewport={{ once: true }}
           transition={{ duration: 0.8, delay: 1 }}
         >
-          Happy New Year
+          Happy Father's Day
         </motion.h2>
         
         <motion.p
@@ -45,7 +45,7 @@ const ClosingSection: React.FC = () => {
           viewport={{ once: true }}
           transition={{ duration: 0.8, delay: 1.3 }}
         >
-          2025 → 2026
+          June 2026
         </motion.p>
         
         <motion.div
